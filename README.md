@@ -8,9 +8,9 @@ data analysis, data engineering, and AI.
 Currently building **whyvalue**, a Python library for understanding
 Python values and objects.
 
-* [whyvalue](https://github.com/Muktaryy/whyvalue): the library
-* [Documentation](https://muktaryy.github.io/whyvalue/): whyvalue documentation
-* [PyPI](https://pypi.org/project/whyvalue/): install whyvalue
+* [whyvalue](https://github.com/Muktaryy/whyvalue) : The library
+* [Documentation](https://muktaryy.github.io/whyvalue/) :  whyvalue documentation
+* [PyPI](https://pypi.org/project/whyvalue/) :  install whyvalue
 
 Python, SQL, Pandas, FastAPI, Streamlit.
 
