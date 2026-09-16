@@ -1,12 +1,17 @@
-👋 Hi, I'm Muktar Yakub (muktaryy)
+# Muktar Yakub
 
-🐍 Python Developer in progress
-📊 Exploring Data Analytics
+I'm learning Python and building things along the way.
 
-🚀 I learn by building real projects and solving problems.
+My goal is to become a Python developer, then move into
+data analysis, data engineering, and AI.
 
-🛠️ Currently Learning
+Currently building **whyvalue**, a Python library for understanding
+Python values and objects.
 
-"Python" "Git" "AI"
+* [whyvalue](https://github.com/Muktaryy/whyvalue): the library
+* [Documentation](https://muktaryy.github.io/whyvalue/): whyvalue documentation
+* [PyPI](https://pypi.org/project/whyvalue/): install whyvalue
 
-«Learn → Build → Debug → Improve 🔥»
+Python, SQL, Pandas, FastAPI, Streamlit.
+
+I'm especially interested in building technology for the Somali language.
